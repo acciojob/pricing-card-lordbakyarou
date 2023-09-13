@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  width: 350px;
+  height: 600px;
+  margin-left: 25%;
+  margin-top: 10%;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 10px 0.5px black;
+  text-align: center;
+  padding-top: 100px;
+  background-color: whitesmoke;
+}
+
+#main-image {
+  width: 300px;
+  height: 200px;
+}
+
+#buy-btn {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  background-color: orangered;
+  border-radius: 10px;
+  color: white;
+}
